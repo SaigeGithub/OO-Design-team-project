@@ -1,4 +1,4 @@
-# Serve
+This is a team project created by member: Benjamin, Andrew, Huiying, Tingwen and Saige
 
 ### BUILD INSTRUCTIONS.
 
